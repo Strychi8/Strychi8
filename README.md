@@ -14,9 +14,9 @@
 <!-- BREVE DESCRIPCION -->
 ### 👨‍💻 About Me :
 
-- 📚 I am currently studying at [University of Lanus](https://www.unla.edu.ar/)
+- 📚 I’m currently studying at [University of Lanus](https://www.unla.edu.ar/)
 
-- 🌱 I am currently in the race **Bachelor in Systems**
+- 🌱 I’m currently in the race **Bachelor in Systems**
 
 - 💻 I’m currently learning **Python y Django**
 
@@ -55,8 +55,8 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Strychi8&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Strychi8&theme=modern-lilac2)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Strychi8&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Strychi8&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strychi8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strychi8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
