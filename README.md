@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZkb3o0NWNqemhpcWo5ZTJtMGI1OXh5OGJzdTludzBvbWtjY2ZvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWg3eHVjdHRlejM4N2tuaWZ1NHpucGhzemtwb29hM3htZmVwZWU2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Tomas</h1>
     <h3 align="center">Frontend and backend developer from Argentina 💙🤍💙</h3>
 </div>
@@ -7,7 +7,9 @@
 ---
 
 <!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=strychi8&label=Profile%20views&color=0e75b6&style=flat" alt="strychi8" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Strychi8&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Strychi8" style="padding-right:20px;" />
+</p>
 
 <!-- BREVE DESCRIPCION -->
 ### 👨‍💻 About Me :
@@ -21,7 +23,7 @@
 - 📫 How to reach me **tomas2000T@gmail.com**
 
 <!-- CONTACTO -->
-<h3 align="left">📞 Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tomas-strycharski-9a369021a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas-strycharski-9a369021a" height="30" width="40" /></a>
 </p>
