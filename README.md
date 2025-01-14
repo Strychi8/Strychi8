@@ -70,10 +70,10 @@ I have a strong passion for technology and enjoy exploring new tools. Here's a l
 <br>
 
 <!-- Proyectos -->
-## Portfolio
-<a href="https://github.com/Strychi8/Portafolio">
+## 😀 My Portfolio
+<a href="https://github.com/Strychi8/Portfolio">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Strychi8&repo=Portafolio&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Strychi8&repo=Portfolio&theme=react" />
 </a>
 
 <br>
