@@ -2,9 +2,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div id="header" align="center">
-    <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Strychi</h1>
+    <h1 align="center">Hi there 👋, I'm Strychi</h1>
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWg3eHVjdHRlejM4N2tuaWZ1NHpucGhzemtwb29hM3htZmVwZWU2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="200" />
-    <h3 align="center">Fullstack developer from Argentina 💙🤍💙</h3>
+    <h3 align="center">Full-stack developer from Argentina 💙🤍💙</h3>
 </div>
 
 <!-- Linea Horizontal -->
