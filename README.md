@@ -1,6 +1,9 @@
+<!-- horizontal divider(gradiant) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div id="header" align="center">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWg3eHVjdHRlejM4N2tuaWZ1NHpucGhzemtwb29hM3htZmVwZWU2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm Tomas</h1>
+    <h1 align="center">Hi there👋, I'm Strychi</h1>
     <h3 align="center">Frontend and backend developer from Argentina 💙🤍💙</h3>
 </div>
 
@@ -12,26 +15,29 @@
 </p>
 
 <!-- BREVE DESCRIPCION -->
-### 👨‍💻 About Me :
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
 
 - 📚 I’m currently studying at [University of Lanus](https://www.unla.edu.ar/)
 
 - 🌱 I’m currently in the race **Bachelor in Systems**
 
-- 💻 I’m currently learning **Python y Django**
+- 💻 I’m currently learning **Python, Django and Django REST Framework**
 
 - 📫 How to reach me **tomas2000T@gmail.com**
 
+<br>
+
 <!-- CONTACTO -->
-<h3 align="left">🤝 Connect with me:</h3>
+## 🤝 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/tomas-strycharski-9a369021a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas-strycharski-9a369021a" height="30" width="40" /></a>
 </p>
 
+<br>
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
+## 🛠️ Languages and Tools
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -49,14 +55,49 @@
       </div>
 </div>
 
+<br>
 
-<!-- STATS Y LENGUAJES MAS USADOS -->
----
+<!-- Stats y Trophy -->
 
-### 📊 My Stats :
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> </picture> My Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Strychi8&theme=modern-lilac2)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Strychi8&theme=modern-lilac2)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Strychi8&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strychi8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strychi8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!--- Stats & Trophy (start) -->
+
+<p align="left">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Strychi8&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Strychi8&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Strychi8&theme=dark&hide_border=false&no-bg=true&no frame=true&langs_count=7"/>
+</td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!-- Trophy  -->
+
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Strychi8&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!-- Trophy -->
+</p>        
+<!--- Stats (end) -->
+
+<br>
+
+<!-- horizontal divider(gradiant) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
