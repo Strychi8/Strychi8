@@ -20,9 +20,9 @@
 
 I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me
 
-- 📚 I’m currently studying at [University of Lanus](https://www.unla.edu.ar/)
+- 📚 I’m currently studying at [Universidad de Lanus](https://www.unla.edu.ar/)
 
-- 🌱 I’m currently in the race **Bachelor in Systems**
+- 🌱 I’m currently in the race **Licenciatura en Sistemas**
 
 - 💻 I’m currently learning **Python, Django and Django REST Framework**
   
