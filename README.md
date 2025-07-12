@@ -4,7 +4,7 @@
 <div id="header" align="center">
     <h1 align="center">Hi there 👋, I'm Strychi</h1>
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWg3eHVjdHRlejM4N2tuaWZ1NHpucGhzemtwb29hM3htZmVwZWU2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="200" />
-    <h3 align="center">Full-Stack developer from Argentina 💙🤍💙</h3>
+    <h3 align="center">Full-Stack Developer from Argentina 💙🤍💙</h3>
 </div>
 
 <!-- Linea Horizontal -->
@@ -18,15 +18,15 @@
 <!-- BREVE DESCRIPCION -->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
 
-I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me
+I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me:
 
 - 📚 I’m currently studying at [Universidad de Lanus](https://www.unla.edu.ar/)
 
-- 🌱 I’m currently in the race **Licenciatura en Sistemas**
+- 🌱 I’m pursuing a degree in **Licenciatura en Sistemas**
 
 - 💻 I’m currently learning **Python, Django and Django REST Framework**
   
-- ✏ I’m currently working on building my portfolio and contributing to a university project.
+- ✏️ I’m currently working on a university project and developing my personal portfolio.
 
 - 📫 How to reach me **tomas2000T@gmail.com**
 
@@ -53,6 +53,7 @@ I have a strong passion for technology and enjoy exploring new tools. Here's a l
     </span>
 <h4> Other Tools and Technologies </h4>
     <span>
+        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>  
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
@@ -64,7 +65,8 @@ I have a strong passion for technology and enjoy exploring new tools. Here's a l
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
         <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>  
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
     </span>
 
 <br>
