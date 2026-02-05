@@ -1,11 +1,30 @@
 <!-- Linea Horizontal -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div id="header" align="center">
-    <h1 align="center">Hi there 👋, I'm Strychi</h1>
+# <div align="center"> Hi there 👋, I'm Strychi </div>
+
+<div align="center">
+
+![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
+![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
+![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
+![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
+![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
+![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
+
+</div>
+
+<div align="center">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWg3eHVjdHRlejM4N2tuaWZ1NHpucGhzemtwb29hM3htZmVwZWU2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="200" />
-    <h3 align="center">Full-Stack Developer from Argentina 💙🤍💙</h3>
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#FF7139"/>  
+</div>
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Welcome+to+my+Github+profile+💙🤍💙;Full+Stack+Developer+💫;Freelancer+✨;Always+learning+new+technologies+🚀;River+Plate+❤️🤍❤️" alt="Typing SVG">
+
+</div>
+
+<div align="center">
+    <a href="https://strychi8.github.io/Portfolio/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#FF7139"/></a>
 </div>
 
 <!-- Linea Horizontal -->
@@ -19,29 +38,18 @@
 <!-- BREVE DESCRIPCION -->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
 
-I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me:
-
-- 📚 I’m currently studying at [Universidad de Lanus](https://www.unla.edu.ar/)
-
-- 🌱 I’m pursuing a degree in **Licenciatura en Sistemas**
-
-- 💻 I’m currently learning **Python, Django and Django REST Framework**
-
-- 👯 I’m looking to collaborate on: Fullstack/Frontend/Backend projects
-  
-- ✏️ I’m currently working on a university project and developing my personal portfolio.
-
-- 📫 How to reach me **tomas2000T@gmail.com**
-
-<br>
+- 🎓 I’m currently studying at [Universidad de Lanus](https://www.unla.edu.ar/).
+- 🌱 I’m pursuing a degree in **Licenciatura en Sistemas**.
+- 💻 I’m currently learning **Python, Django and Django REST Framework**.
+- 👯 I’m looking to collaborate on: Fullstack/Frontend/Backend projects.
+- ⚡ I’m currently working on a university project and developing my personal portfolio.
+- 📝 I have a strong interest in Cybersecurity and Artificial Intelligence.
+- 💡 Keywords: Perseverance, Constancy, Effort, Strategy, Authenticity, Action, Resilience.
 
 <!-- CONTACTO -->
 ## 🤝 Connect with me
-<a href="https://linkedin.com/in/tomas-strycharski-9a369021a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:tomas2000t@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-
-
-<br>
+<a href="https://linkedin.com/in/tomas-strycharski" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:tomas2000t@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 ## 🛠️ Tech Stack
@@ -87,6 +95,7 @@ I have a strong passion for technology and enjoy exploring new tools. Here's a l
         <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>  
         <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
         <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Railway-%25171e2e.svg?style=for-the-badge&logo=railway&logoColor=white&color=18171C"/>
         <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
     </span>
 <h4> Other Tools and Technologies </h4>
@@ -105,9 +114,15 @@ I have a strong passion for technology and enjoy exploring new tools. Here's a l
         <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
         <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
         <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
         <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white"/>
         <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/>
+        <img src="https://img.shields.io/badge/notebooklm-1b321.svg?style=for-the-badge&logo=notebooklm&color=black"/>
+        <img src="https://img.shields.io/badge/Nano%20Banana-1b321.svg?style=for-the-badge&logo=gamebanana&color=black"/>
+        <img src="https://img.shields.io/badge/Excalidraw-4a64.svg?style=for-the-badge&logo=excalidraw&logoColor=%236965DB&color=black"/>
+        <img src="https://img.shields.io/badge/Google%20Docs-4a64.svg?style=for-the-badge&logo=googledocs&logoColor=white&color=%234285F4"/>
+        <img src="https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
     </span>
 
 <br>
@@ -153,9 +168,17 @@ I have a strong passion for technology and enjoy exploring new tools. Here's a l
 </div>
 
 <!--- trophy (start) -->
-</p>        
+</p>    
 
-<br>
+----
 
-<!-- Linea Horizontal -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+----
+
+![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+
+----
