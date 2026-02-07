@@ -20,11 +20,12 @@
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Welcome+to+my+Github+profile+💙🤍💙;Full+Stack+Developer+💫;Freelancer+✨;Always+learning+new+technologies+🚀;River+Plate+❤️🤍❤️" alt="Typing SVG">
-
 </div>
 
 <div align="center">
-    <a href="https://strychi8.github.io/Portfolio/" target="_blank"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#FF7139"/></a>
+    <a href="https://strychi8.github.io/Portfolio/" target="_blank">
+        <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#FF7139"/>
+    </a>
 </div>
 
 <!-- Linea Horizontal -->
@@ -48,8 +49,12 @@
 
 <!-- MEDIOS DE CONTACTO -->
 ## 🤝 Connect With Me
-<a href="https://linkedin.com/in/tomas-strycharski" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:tomas2000t@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://linkedin.com/in/tomas-strycharski" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:tomas2000t@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 ## 🛠️ Tech Stack
@@ -143,65 +148,68 @@
 ## ✨ The 2026
 
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">Resident Evil Requiem 🍷</h3>
-<div align="center">
-<a href="https://youtu.be/T54OWinnymM?si=EJDK4M-OB_4ivWvx" target="_blank"><img src="https://img.asmedia.epimg.net/resizer/v2/ZKHOGS4GGNHPNJDWW4TCOXTKFY.jpg?auth=14b5f55620defb4995664da099fc27694e420e2378a0f2f7cf29318eb271a8fc&width=1472&height=828&smart=true" width="400" alt="Resident Evil Requiem"></a>
-<p>
-<a href="https://youtu.be/T54OWinnymM?si=EJDK4M-OB_4ivWvx" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=543E3E">
-</a>
-</p>
-<p>Explore the thrilling <strong>third trailer for Resident Evil Requiem</strong>. Join Leon S. Kennedy on a terrifying new mission as he investigates disappearances and faces the dark machinations of Umbrella's remnants.</p>
-</div>
-                                                                                      
-</td>
+    <td width="50%">
+    <h3 align="center">Resident Evil Requiem 🍷</h3>
+        <div align="center">
+            <a href="https://youtu.be/T54OWinnymM?si=EJDK4M-OB_4ivWvx" target="_blank">
+                <img src="https://img.asmedia.epimg.net/resizer/v2/ZKHOGS4GGNHPNJDWW4TCOXTKFY.jpg?auth=14b5f55620defb4995664da099fc27694e420e2378a0f2f7cf29318eb271a8fc&width=1472&height=828&smart=true" width="400" alt="Resident Evil Requiem">
+            </a>
+            <p>
+                <a href="https://youtu.be/T54OWinnymM?si=EJDK4M-OB_4ivWvx" target="_blank">
+                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=543E3E">
+                </a>
+            </p>
+            <p>Explore the thrilling <strong>third trailer for Resident Evil Requiem</strong>. Join Leon S. Kennedy on a terrifying new mission as he investigates disappearances and faces the dark machinations of Umbrella's remnants.</p>
+        </div>                                                                                     
+    </td>
 
-<td width="50%">
-               
-<h3 align="center">World Cup 26 ⚽</h3>
-<div align="center">                                       
-<a href="https://youtu.be/HmpzUm5j4OE?si=ugeQ1X-_HayRAuYS" target="_blank"><img src="https://www.reasonwhy.es/media/library/lo-mundial-2026-2.jpg" width="400" alt="Mundial 2026"></a>
-<p>
-<a href="https://youtu.be/HmpzUm5j4OE?si=ugeQ1X-_HayRAuYS" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=2B46C7">
-</a>
-</p>
-<p>Feel the thrill of the unforgettable <strong>Official Theme of the FIFA World Cup 26™</strong>. Brace yourself for the greatest global football spectacle on Earth as it heads to North America with this iconic and high-energy melody.</p>
-</div>                                                             
+<td width="50%">              
+    <h3 align="center">World Cup 26 ⚽</h3>
+    <div align="center">                                       
+        <a href="https://youtu.be/HmpzUm5j4OE?si=ugeQ1X-_HayRAuYS" target="_blank">
+            <img src="https://www.reasonwhy.es/media/library/lo-mundial-2026-2.jpg" width="400" alt="Mundial 2026">
+        </a>
+        <p>
+            <a href="https://youtu.be/HmpzUm5j4OE?si=ugeQ1X-_HayRAuYS" target="_blank">
+                <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=2B46C7">
+            </a>
+        </p>
+        <p>Feel the thrill of the unforgettable <strong>Official Theme of the FIFA World Cup 26™</strong>. Brace yourself for the greatest global football spectacle on Earth as it heads to North America with this iconic and high-energy melody.</p>
+    </div>                                                             
+</td>
 </table>                                                                                 
 </div>
-<br>
+
 
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">GTA VI 🎮</h3>
-<div align="center">
-<a href="https://youtu.be/VQRLujxTm3c?si=h0ekxDRjlVv8_nAp" target="_blank"><img src="https://www.xtrafondos.com/wallpapers/gta-6-portada-13198.jpg" width="400" alt="GTA 6"></a>
-<p>
-<a href="https://youtu.be/VQRLujxTm3c?si=h0ekxDRjlVv8_nAp" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=CFAAE0">
-</a>
-</p>
-<p>Don't miss the <strong>second official trailer for Grand Theft Auto VI</strong>. Return to Vice City and follow the story of Lucia and Jason in this highly anticipated sequel that promises to revolutionize the world of open-world gaming.</p>
-</div>
-                                                                                      
-</td>       
+    <td width="50%">
+        <h3 align="center">GTA VI 🎮</h3>
+        <div align="center">
+            <a href="https://youtu.be/VQRLujxTm3c?si=h0ekxDRjlVv8_nAp" target="_blank">
+                <img src="https://www.xtrafondos.com/wallpapers/gta-6-portada-13198.jpg" width="400" alt="GTA 6">
+            </a>
+            <p>
+                <a href="https://youtu.be/VQRLujxTm3c?si=h0ekxDRjlVv8_nAp" target="_blank">
+                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=CFAAE0">
+                </a>
+            </p>
+            <p>Don't miss the <strong>second official trailer for Grand Theft Auto VI</strong>. Return to Vice City and follow the story of Lucia and Jason in this highly  anticipated sequel that promises to revolutionize the world of open-world gaming.</p>
+        </div>
+    </td>       
 
 <td width="50%">
-<h3 align="center">Avengers Doomsday 💚</h3>
-<div align="center">
-<a href="https://www.youtube.com/live/f17J3AXVK5w?si=tFuPvqtBUl864lm6" target="_blank"><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7d2b9b00-f23d-4a6c-8874-38e66a203d0c/avengers-castchanges.jpg" width="400" alt="Avengers Doomsday"></a>
-<p>
-<a href="https://www.youtube.com/live/f17J3AXVK5w?si=tFuPvqtBUl864lm6" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-<p>Step into the future of the Marvel Cinematic Universe with the bold <strong>AVENGERS: DOOMSDAY CLOCK</strong> video. Discover the first clues about the ultimate next great threat that will unite Earth's Mightiest Heroes in this new chapter.</p>
-</div>
-                                                                                      
+    <h3 align="center">Avengers Doomsday 💚</h3>
+        <div align="center">
+            <a href="https://www.youtube.com/live/f17J3AXVK5w?si=tFuPvqtBUl864lm6" target="_blank">
+                <img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7d2b9b00-f23d-4a6c-8874-38e66a203d0c/avengers-castchanges.jpg" width="400" alt="Avengers Doomsday">
+            </a>
+            <p>
+                <a href="https://www.youtube.com/live/f17J3AXVK5w?si=tFuPvqtBUl864lm6" target="_blank">
+                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+                </a>
+            </p>
+            <p>Step into the future of the Marvel Cinematic Universe with the bold <strong>AVENGERS: DOOMSDAY CLOCK</strong> video. Discover the first clues about the     ultimate next great threat that will unite Earth's Mightiest Heroes in this new chapter.</p>
+        </div>
 </td>  
 </table>                                                                                 
 </div>
@@ -210,9 +218,10 @@
 
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8957E5&center=true&vCenter=true&width=600&lines=Thanks+for+watching+🤍" alt="Typing SVG">
+----
 
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8957E5&center=true&vCenter=true&width=600&lines=Follow+Me+🤍" alt="Typing SVG">
 </div>
 
 ----
