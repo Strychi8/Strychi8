@@ -125,7 +125,7 @@
         <img src="https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
     </span>
 
-<br>
+----
 
 <!-- Stats -->
 
@@ -138,7 +138,9 @@
 </a>
 </p>
 
-## ✨ Year 2026
+----
+
+## ✨ The 2026
 
 <table>
 <tr>
@@ -151,23 +153,22 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=543E3E">
 </a>
 </p>
-<p>Explora el emocionante <strong>tercer tráiler de Resident Evil Requiem</strong>. Únete a Leon S. Kennedy en una nueva y aterradora misión mientras investiga desapariciones y se enfrenta a las oscuras maquinaciones de lo que queda de Umbrella.</p>
+<p>Explore the thrilling <strong>third trailer for Resident Evil Requiem</strong>. Join Leon S. Kennedy on a terrifying new mission as he investigates disappearances and faces the dark machinations of Umbrella's remnants.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                
-<h3 align="center">Mundial 2026 ⚽</h3>
+<h3 align="center">World Cup 26 ⚽</h3>
 <div align="center">                                       
 <a href="https://youtu.be/HmpzUm5j4OE?si=ugeQ1X-_HayRAuYS" target="_blank"><img src="https://www.reasonwhy.es/media/library/lo-mundial-2026-2.jpg" width="400" alt="Mundial 2026"></a>
-
 <p>
 <a href="https://youtu.be/HmpzUm5j4OE?si=ugeQ1X-_HayRAuYS" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=2B46C7">
 </a>
 </p>
-<p>Sumérgete en la emoción del <strong>tema oficial de la Copa Mundial de la FIFA 26™</strong>. Prepárate para el evento futbolístico más grande del mundo que se llevará a cabo en Norteamérica con esta vibrante melodía.</p>
+<p>Feel the thrill of the unforgettable <strong>Official Theme of the FIFA World Cup 26™</strong>. Brace yourself for the greatest global football spectacle on Earth as it heads to North America with this iconic and high-energy melody.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -184,7 +185,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=CFAAE0">
 </a>
 </p>
-<p>No te pierdas el <strong>segundo tráiler oficial de Grand Theft Auto VI</strong>. Regresa a Vice City y sigue la historia de Lucia y Jason en esta esperada secuela que promete revolucionar el mundo de los videojuegos de mundo abierto.</p>
+<p>Don't miss the <strong>second official trailer for Grand Theft Auto VI</strong>. Return to Vice City and follow the story of Lucia and Jason in this highly anticipated sequel that promises to revolutionize the world of open-world gaming.</p>
 </div>
                                                                                       
 </td>       
@@ -198,7 +199,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-<p>Adéntrate en el futuro del Universo Cinematográfico de Marvel con el vídeo <strong>AVENGERS: DOOMSDAY CLOCK</strong>. Descubre las primeras pistas sobre la próxima gran amenaza que unirá a los héroes más poderosos de la Tierra.</p>
+<p>Step into the future of the Marvel Cinematic Universe with the bold <strong>AVENGERS: DOOMSDAY CLOCK</strong> video. Discover the first clues about the ultimate next great threat that will unite Earth's Mightiest Heroes in this new chapter.</p>
 </div>
                                                                                       
 </td>  
@@ -208,5 +209,10 @@
 ----
 
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8957E5&center=true&vCenter=true&width=600&lines=Thanks+for+watching+🤍" alt="Typing SVG">
+
+</div>
 
 ----
