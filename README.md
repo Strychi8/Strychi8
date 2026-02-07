@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-    <a href="https://strychi8.github.io/Portfolio/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#FF7139"/></a>
+    <a href="https://strychi8.github.io/Portfolio/" target="_blank"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#FF7139"/></a>
 </div>
 
 <!-- Linea Horizontal -->
@@ -35,19 +35,19 @@
   <img src="https://komarev.com/ghpvc/?username=Strychi8&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Strychi8" style="padding-right:20px;" />
 </p>
 
-<!-- BREVE DESCRIPCION -->
+<!-- SOBRE MI -->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
 
-- 🎓 I’m currently studying at [Universidad de Lanus](https://www.unla.edu.ar/).
+- 🎓 I’m currently studying at **[Universidad Nacional de Lanus (UNLa)](https://www.unla.edu.ar/)**.
 - 🌱 I’m pursuing a degree in **Licenciatura en Sistemas**.
 - 💻 I’m currently learning **Python, Django and Django REST Framework**.
-- 👯 I’m looking to collaborate on: Fullstack/Frontend/Backend projects.
+- 👯 I’m looking to collaborate on: Fullstack/Frontend/Backend Projects.
 - ⚡ I’m currently working on a university project and developing my personal portfolio.
 - 📝 I have a strong interest in Cybersecurity and Artificial Intelligence.
-- 💡 Keywords: Perseverance, Constancy, Effort, Strategy, Authenticity, Action, Resilience.
+- 💡 **Keywords**: Perseverance, Constancy, Effort, Strategy, Authenticity, Action, Resilience.
 
-<!-- CONTACTO -->
-## 🤝 Connect with me
+<!-- MEDIOS DE CONTACTO -->
+## 🤝 Connect With Me
 <a href="https://linkedin.com/in/tomas-strycharski" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:tomas2000t@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
@@ -60,7 +60,7 @@
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
         <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -127,55 +127,83 @@
 
 <br>
 
-<!-- Proyectos -->
+<!-- Stats -->
 
-<!-- Stats y Trophy -->
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> </picture> My Stats
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Strychi8&theme=react)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Strychi8&show_icons=true&theme=react)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strychi8&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<p align="left">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Strychi8&theme=react&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Strychi8&theme=react&hide_border=false" /> 
-</td>
-
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Strychi8&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Strychi8&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-
-<!--- trophy (start) -->
-</p>    
-
-----
+## 📊 My Stats
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Strychi8&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Strychi8&layout=compact&langs_count=8&theme=radical"/>
+</a>
 </p>
+
+## ✨ Year 2026
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Resident Evil Requiem 🍷</h3>
+<div align="center">
+<a href="https://youtu.be/T54OWinnymM?si=EJDK4M-OB_4ivWvx" target="_blank"><img src="https://img.asmedia.epimg.net/resizer/v2/ZKHOGS4GGNHPNJDWW4TCOXTKFY.jpg?auth=14b5f55620defb4995664da099fc27694e420e2378a0f2f7cf29318eb271a8fc&width=1472&height=828&smart=true" width="400" alt="Resident Evil Requiem"></a>
+<p>
+<a href="https://youtu.be/T54OWinnymM?si=EJDK4M-OB_4ivWvx" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=543E3E">
+</a>
+</p>
+<p>Explora el emocionante <strong>tercer tráiler de Resident Evil Requiem</strong>. Únete a Leon S. Kennedy en una nueva y aterradora misión mientras investiga desapariciones y se enfrenta a las oscuras maquinaciones de lo que queda de Umbrella.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               
+<h3 align="center">Mundial 2026 ⚽</h3>
+<div align="center">                                       
+<a href="https://youtu.be/HmpzUm5j4OE?si=ugeQ1X-_HayRAuYS" target="_blank"><img src="https://www.reasonwhy.es/media/library/lo-mundial-2026-2.jpg" width="400" alt="Mundial 2026"></a>
+
+<p>
+<a href="https://youtu.be/HmpzUm5j4OE?si=ugeQ1X-_HayRAuYS" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=2B46C7">
+</a>
+</p>
+<p>Sumérgete en la emoción del <strong>tema oficial de la Copa Mundial de la FIFA 26™</strong>. Prepárate para el evento futbolístico más grande del mundo que se llevará a cabo en Norteamérica con esta vibrante melodía.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">GTA VI 🎮</h3>
+<div align="center">
+<a href="https://youtu.be/VQRLujxTm3c?si=h0ekxDRjlVv8_nAp" target="_blank"><img src="https://www.xtrafondos.com/wallpapers/gta-6-portada-13198.jpg" width="400" alt="GTA 6"></a>
+<p>
+<a href="https://youtu.be/VQRLujxTm3c?si=h0ekxDRjlVv8_nAp" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=CFAAE0">
+</a>
+</p>
+<p>No te pierdas el <strong>segundo tráiler oficial de Grand Theft Auto VI</strong>. Regresa a Vice City y sigue la historia de Lucia y Jason en esta esperada secuela que promete revolucionar el mundo de los videojuegos de mundo abierto.</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Avengers Doomsday 💚</h3>
+<div align="center">
+<a href="https://www.youtube.com/live/f17J3AXVK5w?si=tFuPvqtBUl864lm6" target="_blank"><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7d2b9b00-f23d-4a6c-8874-38e66a203d0c/avengers-castchanges.jpg" width="400" alt="Avengers Doomsday"></a>
+<p>
+<a href="https://www.youtube.com/live/f17J3AXVK5w?si=tFuPvqtBUl864lm6" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+<p>Adéntrate en el futuro del Universo Cinematográfico de Marvel con el vídeo <strong>AVENGERS: DOOMSDAY CLOCK</strong>. Descubre las primeras pistas sobre la próxima gran amenaza que unirá a los héroes más poderosos de la Tierra.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
 
 ----
 
