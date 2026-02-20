@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-    <a href="https://strychi8.github.io/Portfolio/" target="_blank">
+    <a href="https://tomas-strycharski-portfolio.vercel.app/" target="_blank">
         <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#FF7139"/>
     </a>
 </div>
@@ -32,7 +32,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- VISTAS DEL PERFIL -->
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Strychi8&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Strychi8" style="padding-right:20px;" />
 </p>
 
@@ -42,8 +42,8 @@
 - 🎓 I’m currently studying at **[Universidad Nacional de Lanus (UNLa)](https://www.unla.edu.ar/)**.
 - 🌱 I’m pursuing a degree in **Licenciatura en Sistemas**.
 - 💻 I’m currently learning **Python, Django and Django REST Framework**.
-- 👯 I’m looking to collaborate on: Fullstack/Frontend/Backend Projects.
-- ⚡ I’m currently working on a university project and developing my personal portfolio.
+- 📌 I’m looking to collaborate on: Fullstack/Frontend/Backend Projects.
+- 🚀 I’m currently working on a university project and developing my personal portfolio.
 - 📝 I have a strong interest in Cybersecurity and Artificial Intelligence.
 - 💡 **Keywords**: Perseverance, Constancy, Effort, Strategy, Authenticity, Action, Resilience.
 
@@ -59,6 +59,7 @@
 <!-- LENGUAJES Y HERRAMIENTAS -->
 ## 🛠️ Tech Stack
 
+<div align="center">  
 <h4> Languages </h4>
     <span>
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -129,6 +130,7 @@
         <img src="https://img.shields.io/badge/Google%20Docs-4a64.svg?style=for-the-badge&logo=googledocs&logoColor=white&color=%234285F4"/>
         <img src="https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
     </span>
+</div>
 
 ----
 
