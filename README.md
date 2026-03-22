@@ -156,30 +156,34 @@
     <td width="50%">
     <h3 align="center">Resident Evil Requiem 🍷</h3>
         <div align="center">
-            <a href="https://youtu.be/T54OWinnymM?si=EJDK4M-OB_4ivWvx" target="_blank">
-                <img src="https://img.asmedia.epimg.net/resizer/v2/ZKHOGS4GGNHPNJDWW4TCOXTKFY.jpg?auth=14b5f55620defb4995664da099fc27694e420e2378a0f2f7cf29318eb271a8fc&width=1472&height=828&smart=true" width="400" alt="Resident Evil Requiem">
+            <a href="https://www.youtube.com/watch?v=fXVy4mALHLY&t=1s" target="_blank">
+                <img src="https://cdn.wccftech.com/wp-content/uploads/2025/12/Resident-Evil-Requiem-Art-scaled.jpg" width="400" alt="Resident Evil Requiem">
             </a>
             <p>
-                <a href="https://youtu.be/T54OWinnymM?si=EJDK4M-OB_4ivWvx" target="_blank">
+                <a href="https://www.youtube.com/watch?v=fXVy4mALHLY&t=1s" target="_blank">
                     <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=543E3E">
                 </a>
             </p>
-            <p>Explore the thrilling <strong>third trailer for Resident Evil Requiem</strong>. Join Leon S. Kennedy on a terrifying new mission as he investigates disappearances and faces the dark machinations of Umbrella's remnants.</p>
+            <p>Explore the thrilling <strong>fourth trailer for Resident Evil Requiem</strong>. Join Leon S. Kennedy on a terrifying new mission as he investigates disappearances and faces the dark machinations of Umbrella's remnants.</p>
         </div>                                                                                     
     </td>
 
 <td width="50%">              
     <h3 align="center">World Cup 26 ⚽</h3>
     <div align="center">                                       
-        <a href="https://youtu.be/HmpzUm5j4OE?si=ugeQ1X-_HayRAuYS" target="_blank">
-            <img src="https://www.reasonwhy.es/media/library/lo-mundial-2026-2.jpg" width="400" alt="Mundial 2026">
+        <a href="https://www.youtube.com/watch?v=91htvvcIurs" target="_blank">
+            <img src="https://slidechef.net/wp-content/uploads/2025/07/FIFA-World-Cup-2026.jpg" width="400" alt="Mundial 2026">
         </a>
         <p>
-            <a href="https://youtu.be/HmpzUm5j4OE?si=ugeQ1X-_HayRAuYS" target="_blank">
-                <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=2B46C7">
+            <a href="https://www.youtube.com/watch?v=91htvvcIurs" target="_blank">
+                <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=F8FD71">
             </a>
         </p>
-        <p>Feel the thrill of the unforgettable <strong>Official Theme of the FIFA World Cup 26™</strong>. Brace yourself for the greatest global football spectacle on Earth as it heads to North America with this iconic and high-energy melody.</p>
+        <p>
+    Feel the passion of football with the official <strong>"One Dream"</strong> trailer for <strong>World Cup 26</strong>.
+    A visual journey celebrating the sacrifice and glory of nations on the pitch.
+    Get ready to experience the most anticipated sporting event in the world!
+</p>
     </div>                                                             
 </td>
 </table>                                                                                 
@@ -216,7 +220,39 @@
             <p>Step into the future of the Marvel Cinematic Universe with the bold <strong>AVENGERS: DOOMSDAY CLOCK</strong> video. Discover the first clues about the     ultimate next great threat that will unite Earth's Mightiest Heroes in this new chapter.</p>
         </div>
 </td>  
-</table>                                                                                 
+</table>   
+
+<table>
+    <td width="50%">
+        <h3 align="center">Daredevil: Born Again</h3>
+        <div align="center">
+            <a href="https://www.youtube.com/watch?v=-SvZT9nt6rU" target="_blank">
+                <img src="https://4kwallpapers.com/images/walls/thumbs_2t/20926.jpg" width="400" alt="Daredevil: Born Again">
+            </a>
+            <p>
+                <a href="https://www.youtube.com/watch?v=-SvZT9nt6rU" target="_blank">
+                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=AB0806">
+                </a>
+            </p>
+            <p>Daredevil: Born Again Theme</p>
+        </div>
+    </td>       
+
+<td width="50%">
+    <h3 align="center">The Boys - Final Season </h3>
+        <div align="center">
+            <a href="https://www.youtube.com/watch?v=Fv0leN8TmR8" target="_blank">
+                <img src="https://m.media-amazon.com/images/S/pv-target-images/c0f5024d0cf31b20f7b6a19239bc3bac03d1368ee060979a70f2c96593348f47._UR1920,1080_SX624_FMjpg_.jpg" width="400" alt="The Boys">
+            </a>
+            <p>
+                <a href="https://www.youtube.com/watch?v=Fv0leN8TmR8" target="_blank">
+                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=102526">
+                </a>
+            </p>
+            <p>Final Season.</p>
+        </div>
+</td>  
+</table>        
 </div>
 
 ----
