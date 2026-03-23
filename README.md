@@ -168,6 +168,43 @@
         </div>                                                                                     
     </td>
 
+   <td width="50%">
+        <h3 align="center">Daredevil: Born Again - Season 2</h3>
+        <div align="center">
+            <a href="https://www.youtube.com/watch?v=-SvZT9nt6rU" target="_blank">
+                <img src="https://4kwallpapers.com/images/walls/thumbs_2t/20926.jpg" width="400" alt="Daredevil: Born Again">
+            </a>
+            <p>
+                <a href="https://www.youtube.com/watch?v=-SvZT9nt6rU" target="_blank">
+                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=AB0806">
+                </a>
+            </p>
+            <p>The streets of <strong>Hell's Kitchen</strong> are painted red once again with the imminent premiere of <strong>the second season</strong>.
+Immerse yourself in the city's darkest atmosphere by listening to the series' iconic and revamped main theme.</p>
+        </div>
+    </td>  
+
+</table>                                                                                 
+</div>
+
+<table>
+<td width="50%">
+    <h3 align="center">The Boys - Final Season</h3>
+        <div align="center">
+            <a href="https://www.youtube.com/watch?v=Fv0leN8TmR8" target="_blank">
+                <img src="https://m.media-amazon.com/images/S/pv-target-images/c0f5024d0cf31b20f7b6a19239bc3bac03d1368ee060979a70f2c96593348f47._UR1920,1080_SX624_FMjpg_.jpg" width="400" alt="The Boys">
+            </a>
+            <p>
+                <a href="https://www.youtube.com/watch?v=Fv0leN8TmR8" target="_blank">
+                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=4E4743">
+                </a>
+            </p>
+            <p>The <strong>final showdown</strong> has arrived and the world is on the brink of total collapse.
+<strong>Butcher and Homelander</strong> prepare for a brutal battle with no rules or mercy.
+Discover the <strong>definitive trailer</strong> that marks the conclusion of this epic story.</p>
+        </div>
+</td>  
+
 <td width="50%">              
     <h3 align="center">World Cup 26 ⚽</h3>
     <div align="center">                                       
@@ -179,16 +216,12 @@
                 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=F8FD71">
             </a>
         </p>
-        <p>
-    Feel the passion of football with the official <strong>"One Dream"</strong> trailer for <strong>World Cup 26</strong>.
-    A visual journey celebrating the sacrifice and glory of nations on the pitch.
-    Get ready to experience the most anticipated sporting event in the world!
-</p>
+        <p> Feel the passion of football with the official <strong>"One Dream"</strong> trailer for <strong>World Cup 26</strong>.
+            A visual journey celebrating the sacrifice and glory of nations on the pitch.
+            Get ready to experience the most anticipated sporting event in the world! </p>
     </div>                                                             
 </td>
-</table>                                                                                 
-</div>
-
+</table>
 
 <table>
     <td width="50%">
@@ -221,38 +254,6 @@
         </div>
 </td>  
 </table>   
-
-<table>
-    <td width="50%">
-        <h3 align="center">Daredevil: Born Again</h3>
-        <div align="center">
-            <a href="https://www.youtube.com/watch?v=-SvZT9nt6rU" target="_blank">
-                <img src="https://4kwallpapers.com/images/walls/thumbs_2t/20926.jpg" width="400" alt="Daredevil: Born Again">
-            </a>
-            <p>
-                <a href="https://www.youtube.com/watch?v=-SvZT9nt6rU" target="_blank">
-                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=AB0806">
-                </a>
-            </p>
-            <p>Daredevil: Born Again Theme</p>
-        </div>
-    </td>       
-
-<td width="50%">
-    <h3 align="center">The Boys - Final Season </h3>
-        <div align="center">
-            <a href="https://www.youtube.com/watch?v=Fv0leN8TmR8" target="_blank">
-                <img src="https://m.media-amazon.com/images/S/pv-target-images/c0f5024d0cf31b20f7b6a19239bc3bac03d1368ee060979a70f2c96593348f47._UR1920,1080_SX624_FMjpg_.jpg" width="400" alt="The Boys">
-            </a>
-            <p>
-                <a href="https://www.youtube.com/watch?v=Fv0leN8TmR8" target="_blank">
-                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=102526">
-                </a>
-            </p>
-            <p>Final Season.</p>
-        </div>
-</td>  
-</table>        
 </div>
 
 ----
